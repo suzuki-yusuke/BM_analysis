@@ -41,7 +41,7 @@ parent
 │      probetest.csv
 │      training.csv
 │
-├─training
+└─training
    ├─d1
    │  ├─t1
    │  │  ├─#1
@@ -76,7 +76,7 @@ parent
    │
    ...
    │
-   ├─d*
+   └─d*
       ├─t1
       │  ├─#1
       │  │       mv.avi
