@@ -7,7 +7,7 @@
 
 ## Usage
 (setup) Download, unzip, move, or clone the source code folder ***BM-main.zip***
-(setup) A data folder should have the following structure.
+(setup) A data folder should have the following structure. "*" is last value.
 
 ```
 parent
@@ -24,17 +24,17 @@ parent
 │          │
 ...        ...
 │          │
-│          └─#N
+│          └─#*
 │                 xy.txt
 │
 ├─probe_test
-│  └─d7
+│  └─d*
 │      └─t1
 │          ├─#1
 │          │      mv.avi
 │          │      xy.txt
 ...        ...
-│          └─#N
+│          └─#*
 │                 mv.avi
 │                 xy.txt
 │
@@ -50,7 +50,7 @@ parent
 │  │  │  │       xy.txt
 ............
 │  │  │  │
-│  │  │  └─#N
+│  │  │  └─#*
 │  │  │          mv.avi
 │  │  │          xy.txt
 │  │  │
@@ -60,29 +60,29 @@ parent
 │  │  │  │       xy.txt
 ............
 │  │  │  │
-│  │  │  └─#N
+│  │  │  └─#*
 │  │  │          mv.avi
 │  │  │          xy.txt
 │  │  │
-│  │  └─t3
+│  │  └─t*
 │  │      ├─#1
 │  │      │      mv.avi
 │  │      │      xy.txt
 ............
 │  │      │
-│  │      └─#N
+│  │      └─#*
 │  │             mv.avi
 │  │             xy.txt
 │  │
 ......
-│  ├─dD
+│  ├─d*
 │  │  ├─t1
 │  │  │  ├─#1
 │  │  │  │       mv.avi
 │  │  │  │       xy.txt
 ............
 │  │  │  │
-│  │  │  └─#N
+│  │  │  └─#*
 │  │  │          mv.avi
 │  │  │          xy.txt
 │  │  │
@@ -92,17 +92,17 @@ parent
 │  │  │  │       xy.txt
 ............
 │  │  │  │
-│  │  │  └─#N
+│  │  │  └─#*
 │  │  │          mv.avi
 │  │  │          xy.txt
 │  │  │
-      └─t3
+      └─t*
           ├─#1
           │      mv.avi
           │      xy.txt
 ............
           │
-          └─#N
+          └─#*
                  mv.avi
                  xy.txt
 ```
