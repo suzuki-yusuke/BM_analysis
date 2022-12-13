@@ -9,40 +9,24 @@
 (setup) Download, unzip, move, or clone the source code folder ***BM-main.zip***
 (setup) A data folder should have the structure of ***demo***.
 
+```
 main
-
 ├─habituation
-
 │  └─d0
-
 │      └─t1
-
 │          ├─#1
-
 │          │      mv.avi
-
 │          │      xy-1.txt
-
 │          │      xy.txt
-
 │          │
-
 │          ├─#2
-
 │          │      xy.txt
-
 │          │
-
 ...        ...
-
 │          │
-
 │          └─#N
-
 │                 xy.txt
-
 │
-
 ├─probe_test
 │  └─d7
 │      └─t1
@@ -121,7 +105,7 @@ main
           └─#N
                  mv.avi
                  xy.txt
-
+```
 
 
 1. Edit ***set parameters*** section of ***main_v0.m***.
