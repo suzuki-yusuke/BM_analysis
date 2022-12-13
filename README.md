@@ -10,22 +10,39 @@
 (setup) A data folder should have the structure of ***demo***.
 
 main
+
 ├─habituation
+
 │  └─d0
+
 │      └─t1
+
 │          ├─#1
+
 │          │      mv.avi
+
 │          │      xy-1.txt
+
 │          │      xy.txt
+
 │          │
+
 │          ├─#2
+
 │          │      xy.txt
+
 │          │
+
 ...        ...
+
 │          │
+
 │          └─#N
+
 │                 xy.txt
+
 │
+
 ├─probe_test
 │  └─d7
 │      └─t1
