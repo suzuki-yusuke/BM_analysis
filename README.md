@@ -7,10 +7,10 @@
 
 ## Usage
 (setup) Download, unzip, move, or clone the source code folder ***BM-main.zip***
-(setup) A data folder should have the structure of ***demo***.
+(setup) A data folder should have the following structure.
 
 ```
-main
+parent
 ├─habituation
 │  └─d0
 │      └─t1
