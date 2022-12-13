@@ -37,7 +37,7 @@ main
 │          └─#N
 │                 mv.avi
 │                 xy.txt
-││
+│
 ├─SaveDir
 │      probetest.csv
 │      training.csv
