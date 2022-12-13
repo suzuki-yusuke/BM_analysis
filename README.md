@@ -1,0 +1,29 @@
+# Barnes Maze Analysis
+
+## Requirement
+* The codes were developed and tested on MATLAB R2018 and R2020 on Windows 10.
+* Excel 2016 or later will be required if you want Excel outputs.
+
+
+## Usage
+(setup) Download, unzip, move, or clone the source code folder ***BM-main.zip***
+(setup) A data folder should have the structure of ***demo***.
+
+
+1. Edit ***set parameters*** section of ***main_v0.m***.
+2. Run ***main_v0.m***. A popup window will appear.
+3. Fill checkboxes. Do NOT choose ***Extra***. Then select the OK button.
+    * ***Analysis***; fill checkboxes at columns of behavioral features, ***Conventional***, ***Strategy*** and ***Network*** that you want to analyze.
+    * ***Output***; fill checkboxes at columns of behavioral features, ***Conventional***, ***Strategy*** and ***Network*** that you want to get spreadsheet output. If your PC does not have Excel, do NOT fill any checkboxes, as the codes write data to Excel files.
+    * ***Stats***; fill checkboxes at columns of behavioral features, ***Conventional***, ***Strategy*** and ***Network*** that you want to perform statistical tests. If your PC does not have Excel, do NOT fill the checkbox of ***Conventional***, as the codes write data to Excel files.
+    * ***View***; fill checkboxes at columns of behavioral features, ***Conventional***, ***Strategy*** and ***Network*** that you want to get figures.
+
+ 
+## Author
+
+* name
+* affiliation
+* e-mail
+ 
+## License
+
