@@ -32,6 +32,7 @@ parent
 │          │      mv.avi
 │          │      xy.txt
 ...        ...
+│          │
 │          └─#*
 │                 mv.avi
 │                 xy.txt
@@ -74,6 +75,7 @@ parent
    │             xy.txt
    │
    ...
+   │
    ├─d*
       ├─t1
       │  ├─#1
