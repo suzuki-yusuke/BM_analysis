@@ -27,4 +27,4 @@
  
 ## License
 A part of codes in the ***network_analysis*** folder are modified version of [MIT_network_toolbox](https://github.com/cliffordlab/MIT_network_toolbox.git)
-A part of codes in the ***stats*** folder are modified version of [Mixed (Between/Within Subjects) ANOVA Version 1.1.0.0 by Matthew Johnson](https://uk.mathworks.com/matlabcentral/fileexchange/27080-mixed-between-within-subjects-anova), and [sto (ver. 0.30)](https://rnpsychology.org/sto/)
+A part of codes in the ***stats*** folder are modified version of [Mixed (Between/Within Subjects) ANOVA Version 1.1.0.0](https://uk.mathworks.com/matlabcentral/fileexchange/27080-mixed-between-within-subjects-anova), and [sto (ver. 0.30)](https://rnpsychology.org/sto/)
