@@ -70,7 +70,7 @@ for i = 1:length(ntws)
             C = nchoosek(1:length(groups),2);
             yy_k = cell(size(C,1),8);
             for k = 1:size(C,1)
-                [pp,~,stats] = ranksum(x(ic(I)==C(k,1)),x(ic(I)==C(k,2)));
+                [pp,~,stats] = ranksum(x(ic(I)==C(k,1)),x(ic(I)==C(k,2)),'method','approximate');
                 r = stats.zval/sqrt(sum(ismember(ic(I),C(k,:))));
                 yy_k(k,1) = ntwsnames(i);
                 yy_k(k,2) = {ngm};
