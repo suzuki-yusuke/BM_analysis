@@ -52,16 +52,6 @@ parent
    │  │  └─#*
    │  │          mv.avi
    │  │          xy.txt
-   │  │
-   │  ├─t2
-   │  │  ├─#1
-   │  │  │       mv.avi
-   │  │  │       xy.txt
-   │  │  ...
-   │  │  │
-   │  │  └─#*
-   │  │          mv.avi
-   │  │          xy.txt
    │  ...
    │  │
    │  └─t*
@@ -82,16 +72,6 @@ parent
       │  │       mv.avi
       │  │       xy.txt
          ...
-      │  │
-      │  └─#*
-      │          mv.avi
-      │          xy.txt
-      │
-      ├─t2
-      │  ├─#1
-      │  │       mv.avi
-      │  │       xy.txt
-      │  ...
       │  │
       │  └─#*
       │          mv.avi
