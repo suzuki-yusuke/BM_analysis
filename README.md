@@ -100,7 +100,7 @@ parent
     * ***View***; fill checkboxes at columns of behavioral features, ***Conventional***, ***Strategy*** and ***Network*** that you want to get figures.
 5. A file dialogue will popup. If you select ***Run all*** at the step 2, select a ****.csv*** file in the ***SaveDir*** folder the data folder (e.g. *~/SaveDir/training.csv* or *~/SaveDir/probetest.csv*). If you select ***Load*** at the step 2, select a ****.csv*** file in the ***SaveDir*** folder in the data folder. If you select ***Run all*** at the step 2, a ****.mat*** file containing results will be created at the ***SaveDir*** folder.
 
-* When you analyze the confirmatory and perimeter search strategy, use "feature_str_confirm_perimeter.m" instead of "feature_str.m"
+* When you analyze the confirmatory and perimeter search strategy, use *feature_str_confirm_perimeter.m* instead of *feature_str.m*.
  
 ## License
 A part of codes in the ***network_analysis*** folder are modified version of [MIT_network_toolbox](https://github.com/cliffordlab/MIT_network_toolbox.git)
