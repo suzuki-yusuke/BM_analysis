@@ -101,15 +101,11 @@ parent
 5. A file dialogue will popup. If you select ***Run all*** at the step 2, select a ****.csv*** file in the ***SaveDir*** folder the data folder (e.g. *~/SaveDir/training.csv* or *~/SaveDir/probetest.csv*). If you select ***Load*** at the step 2, select a ****.csv*** file in the ***SaveDir*** folder in the data folder. If you select ***Run all*** at the step 2, a ****.mat*** file containing results will be created at the ***SaveDir*** folder.
 
  
-## Author
 
-* name
-* affiliation
-* e-mail
  
 ## License
 A part of codes in the ***network_analysis*** folder are modified version of [MIT_network_toolbox](https://github.com/cliffordlab/MIT_network_toolbox.git)
 
 A part of codes in the ***stats*** folder are modified version of [Mixed (Between/Within Subjects) ANOVA Version 1.1.0.0](https://uk.mathworks.com/matlabcentral/fileexchange/27080-mixed-between-within-subjects-anova), and [sto (ver. 0.30)](https://rnpsychology.org/sto/)
 
-A part of codes in the beeswarm plot...
+A part of codes in the beeswarm plot: https://jp.mathworks.com/matlabcentral/fileexchange/37105-plot-spread-points-beeswarm-plot
