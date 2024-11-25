@@ -108,3 +108,5 @@ A part of codes in the ***network_analysis*** folder are modified version of [MI
 A part of codes in the ***stats*** folder are modified version of [Mixed (Between/Within Subjects) ANOVA Version 1.1.0.0](https://uk.mathworks.com/matlabcentral/fileexchange/27080-mixed-between-within-subjects-anova), and [sto (ver. 0.30)](https://rnpsychology.org/sto/)
 
 A part of codes in the beeswarm plot: https://jp.mathworks.com/matlabcentral/fileexchange/37105-plot-spread-points-beeswarm-plot
+
+If any, feel free to contact Yusuke Suzuki (suzuki.yusuke.7n at kyoto-u.ac.jp).
